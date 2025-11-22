@@ -116,3 +116,53 @@ body {
     font-size: 70px;
     margin: 40px 0;
 }
+/* === DARK MODE === */
+body.dark-mode {
+    background: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode .paperweb-article {
+    background: #1e1e1e;
+    border: 1px solid #333;
+    box-shadow:
+        0 0 20px rgba(255,255,255,0.05),
+        inset 0 0 15px rgba(255,255,255,0.08);
+}
+
+body.dark-mode .paperweb-header h1,
+body.dark-mode .paperweb-header .symbol {
+    color: #ffcc00;
+}
+
+body.dark-mode .paperweb-header .subtitle,
+body.dark-mode .paperweb-header .tagline {
+    color: #aaa;
+}
+
+body.dark-mode .paperweb-table th {
+    background: #333;
+    color: #ffcc00;
+}
+
+body.dark-mode .paperweb-table td {
+    border-color: #555;
+}
+
+body.dark-mode .formula-block {
+    background: #2b2b2b;
+    border-left-color: #ffcc00;
+    color: #fff;
+}
+
+body.dark-mode .poetic {
+    color: #ddd;
+}
+
+/* Navigation links */
+body.dark-mode .paperweb-nav a {
+    color: #ffcc00;
+}
+body.dark-mode .paperweb-nav a:hover {
+    text-decoration: underline;
+}
