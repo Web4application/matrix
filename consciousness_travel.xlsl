@@ -1,0 +1,5 @@
+# When body dies
+IF Body_Static = TRUE THEN
+    Ω~ : Detach
+    ReturnTo Matrix
+    PrepareForNextDimension
