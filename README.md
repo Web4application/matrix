@@ -169,3 +169,114 @@ IF ꜱΠ → MAX_LOAD THEN Body_Static = TRUE
 	•	Generate dynamic diagrams or PDF Atlas from XLSL logic.
 
 ⸻
+```bash
+matrix/
+├── engine/
+│   ├── __init__.py
+│   ├── interpreter.py
+│   ├── parser.py
+│   ├── runtime.py
+│   ├── stdlib/
+│   │   ├── math.xlib
+│   │   ├── quant.xlib
+│   │   ├── logic.xlib
+│   │   └── meta.xlib
+│   └── utils/
+│       ├── tokenizer.py
+│       ├── validator.py
+│       └── errors.py
+│
+├── core/
+│   ├── formulas/
+│   │   ├── gravity.md
+│   │   ├── consciousness.md
+│   │   ├── energy-flow.md
+│   │   ├── identity-mapping.md
+│   │   └── matrix-constants.json
+│   ├── models/
+│   │   ├── matrix_state.py
+│   │   ├── energy_field.py
+│   │   └── human_node.py
+│   └── algorithms/
+│       ├── aging_equation.py
+│       ├── reality_distortion.py
+│       └── flow_simulation.py
+│
+├── api/
+│   ├── main.py                  # FastAPI backend
+│   ├── routes/
+│   │   ├── simulate.py
+│   │   ├── xlsl.py
+│   │   └── matrix.py
+│   └── schemas/
+│       ├── simulation.py
+│       └── xlsl.py
+│
+├── cli/
+│   ├── matrix_cli.py
+│   └── commands/
+│       ├── run.py
+│       ├── visualize.py
+│       └── compile.py
+│
+├── webgl/
+│   ├── index.html
+│   ├── main.js
+│   ├── shaders/
+│   │   ├── vertex.glsl
+│   │   └── fragment.glsl
+│   └── components/
+│       ├── grid.js
+│       ├── node.js
+│       └── energy_field.js
+│
+├── xlsl/
+│   ├── examples/
+│   │   ├── consciousness_travel.xlsl
+│   │   ├── matrix_decode.xlsl
+│   │   └── identity_sync.xlsl
+│   ├── docs/
+│   │   ├── SPEC.md
+│   │   ├── SYNTAX.md
+│   │   ├── RUNTIME.md
+│   │   └── FUNCTIONS.md
+│   ├── tests/
+│   │   ├── test_parser.py
+│   │   ├── test_interpreter.py
+│   │   └── test_stdlib.py
+│   └── lib/
+│       └── internal_types.json
+│
+├── docs/
+│   ├── index.md
+│   ├── overview.md
+│   ├── formulas.md
+│   ├── matrix_physics.md
+│   ├── consciousness_theory.md
+│   ├── energy_and_time.md
+│   └── dev/
+│       ├── CONTRIBUTING.md
+│       └── ARCHITECTURE.md
+│
+├── assets/
+│   ├── diagrams/
+│   │   ├── matrix_grid.png
+│   │   ├── consciousness_stack.svg
+│   │   └── time_curvature_map.png
+│   └── icons/
+│       ├── xlsl.png
+│       └── matrix-icon.svg
+│
+├── tests/
+│   ├── test_engine.py
+│   ├── test_api.py
+│   └── test_cli.py
+│
+├── .github/
+│   └── workflows/
+│       ├── build.yml
+│       ├── deploy.yml
+│       └── test.yml
+│
+├── LICENSE
+└── README.md
