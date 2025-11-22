@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" href="assets/paperweb.css">
+<style>
+/* PDF print enhancements */
+body {
+    background: white !important;
+}
+.paperweb-article {
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+}
+@page {
+    margin: 30mm;
+}
+</style>
+</head>
+<body>
+
+<div class="paperweb-article">
+    {% include human-matrix-atlas.html %}
+</div>
+
+</body>
+</html>
