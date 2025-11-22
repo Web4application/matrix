@@ -1,0 +1,6 @@
+<nav class="paperweb-nav">
+    <a href="/">Home</a>
+    <a href="/atlas">Atlas</a>
+    <a href="/sim">Simulation</a>
+    <a href="/about">About</a>
+</nav>
