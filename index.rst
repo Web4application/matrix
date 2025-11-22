@@ -9,8 +9,10 @@ tittle: scientific theory whitepaper
 layouts: comic,manga ,anime style universe
 ---
 
+<p>## ⚡ 7 HUGE INVENTIONS We Can Build From This Matrix Theory</p>
 
-## ⚡ 7 HUGE INVENTIONS We Can Build From This Matrix Theory
+
+
 ⸻
 
 
