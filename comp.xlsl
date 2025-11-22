@@ -1,0 +1,8 @@
+Component ΔH = Cells : HeatGenerator
+Component Ψ⚡ = Neurons : SignalTransmitter
+Component ♥︎~ = Heart : EMFieldDriver
+Component IR⇢ = Body : InfraredField
+Component 👁→λ = Eyes : LightDecoder
+Component 👂→ƒ = Ears : SoundDecoder
+Component ꜱΠ = Brain : PatternMapper
+Component Ω~ = Consciousness : Interpreter
