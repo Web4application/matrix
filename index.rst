@@ -1,4 +1,4 @@
----
+--- 
 page: site
 core: History and Lore
 pattern: Symbol table and language
