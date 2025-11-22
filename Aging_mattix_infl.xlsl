@@ -1,0 +1,7 @@
+---
+# Body ages with time
+BodyAge(t) = f(ΔH, Ψ⚡, IR⇢, g↓⟂, entropy, environmental_stress)
+
+# Consciousness unaffected by time
+Ω~ : TimeInvariant = TRUE
+---
