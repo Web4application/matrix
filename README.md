@@ -15,6 +15,53 @@
 9. **BER** — Bio-Entropy Regulators  
 10. **XRS** — XLSL Reality-Synchronizers
 
+### Components
+- ΔH — Cellular Energy  
+- Ψ⚡ — Neural currents  
+- ♥︎~ — Cardiac EM bursts  
+- IR⇢ — Internal resonance  
+- 👁→λ — Photonic signals  
+- 👂→ƒ — Frequency signals  
+- g↓⟂ — Gravity alignment field
+
+---
+
+## 3️⃣ Full Website Version
+
+- HTML + CSS + JS ready (your current HTML is the base)  
+- Sections: Home / Atlas / Simulation / About  
+- Interactive Matrix Grid using Three.js  
+- Dark/Light mode toggle  
+- Embedded formulas & 10-tech manifesto  
+- XLSL simulation placeholders (`#reality-status`, `#brain-status`)  
+
+I’ll provide **index.html + assets folder** ready to host.  
+
+---
+
+## **4️⃣ Whitepaper (20+ pages)**
+- Includes PDF content + full technical breakdown:
+  - Introduction: Theory Overview  
+  - XLSL Mathematical Framework  
+  - Detailed description of all 10 techs  
+  - Research agenda + methodology  
+  - Timeline & roadmap  
+  - Chapter 1 expansion with diagrams  
+  - Future chapters outline  
+- Designed with diagrams for signals → brain → consciousness flow, gravity alignment charts, and matrix-field illustrations.
+
+---
+
+## **5️⃣ Book Chapter PDF**
+- Title: *“Matrix Physics — Chapter 1: The Human as a Decoder”*  
+- Expanded version of the Chapter 1 in whitepaper  
+- High-res diagrams for human components, matrix tiles, and interactive formulas  
+- Glossary of all symbols  
+- Ready for printing or digital distribution
+
+---
+
+
 ## Research Agenda
 
 - Consciousness-Signal Correlation Studies  
