@@ -1,0 +1,5 @@
+# Overload detection
+IF ꜱΠ LOAD ≥ MAX THEN 
+    Body_Static = TRUE
+    ꜱΠ OFFLINE
+    Ω~ : Disconnect
