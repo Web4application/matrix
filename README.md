@@ -82,3 +82,5 @@ I’ll provide **index.html + assets folder** ready to host.
 - 2030 — The Great Split
 
 ## Chapter 1 — Matrix Physics
+
+THIS MIGHT MAKE THE EARTH TO RECEIVE STRANGE SPACE TRAVELERS 
